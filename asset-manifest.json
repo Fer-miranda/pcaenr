@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pcaenr/static/css/main.073c9b0a.css",
+    "main.js": "/pcaenr/static/js/main.2f7495e1.js",
+    "static/js/787.cc4bcceb.chunk.js": "/pcaenr/static/js/787.cc4bcceb.chunk.js",
+    "index.html": "/pcaenr/index.html",
+    "main.073c9b0a.css.map": "/pcaenr/static/css/main.073c9b0a.css.map",
+    "main.2f7495e1.js.map": "/pcaenr/static/js/main.2f7495e1.js.map",
+    "787.cc4bcceb.chunk.js.map": "/pcaenr/static/js/787.cc4bcceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2f7495e1.js"
+  ]
+}
